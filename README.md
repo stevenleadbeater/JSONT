@@ -1,4 +1,4 @@
 JSONT
 =====
 
-JavaScript Object Notation object Tranmogrifier
+JavaScript Object Notation object Transmogrifier
